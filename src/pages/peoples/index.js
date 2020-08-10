@@ -9,7 +9,7 @@ const PeoplesPage = ({ users, goods, getPeoples, getBarangs }) => {
   /* eslint-disable react-hooks/exhaustive-deps */
   useEffect(() => {
     getPeoples();
-    getBarangs();
+    //getBarangs();
   }, []);
 
   return (
