@@ -1,0 +1,1 @@
+export const GET_PEOPLES = '[PEOPLE] GET ALL PEOPLE'

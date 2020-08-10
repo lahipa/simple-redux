@@ -1,0 +1,1 @@
+export const GET_BARANGS = "[BARANG] GET ALL BARANG";
